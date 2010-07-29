@@ -1,5 +1,5 @@
 SimpleSprites:
 
-A Simple Evade the Falling Object Type Game, written in Python + Pygame, with pygame.sound thrown in for added effect.
+A Simple Evade the Falling Object Type Game, written in Python + Pygame, Pygame.Mixer() thrown in for added effect.
 
 Based on the game from M.L.Hetland's book.
