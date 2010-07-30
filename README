@@ -3,3 +3,16 @@ SimpleSprites:
 A Simple Evade the Falling Object Type Game, written in Python + Pygame, Pygame.Mixer() thrown in for added effect.
 
 Based on the game from M.L.Hetland's book.
+
+INSTRUCTIONS:
+
+You need to have Python 2.6 or Higher Installed, alongwith Pygame 1.9 or higher.
+
+The main file is : simplesprites.py
+
+Run it and the game will show up. 
+# python simplesprites.py
+
+You can customise by adding your own pictures, sounds and adding them via the config.py file.
+
+
